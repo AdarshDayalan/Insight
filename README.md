@@ -4,7 +4,7 @@ Insight acts like a "Ctrl-f" for price action in the stock market. Users can inp
 ## How It Works
 1. **User Selection:** The user highlights a region to select as the trend (green highlight).
 2. **Algorithm Analysis:** Insight highlights instances of similar trends in historical data (shown in different colors).
-3. **Aggregate View:** An aggregated view of all similar trends is stacked on top of each other, and a solid green line illustrates the average.
+3. **Aggregate View:** An aggregated view of all similar trends is stacked on top of each other, and a solid green line illustrates the average potential forecast.
 
 ## Goal
 Insight aims to:
