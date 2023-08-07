@@ -14,11 +14,13 @@ Insight aims to:
 
 ## Visual Examples
 ### Algorithm Results
-First, these are the algorithm's results in attempting to find and forecast similar trends to the green-highlighted region:
+First, these are the algorithm's results in attempting to find and forecast similar trends on randomly generated data:
 ![Figure_14](https://github.com/AdarshDayalan/Insight/assets/39389186/8c7f5bb6-7e85-4c30-9684-8b610c0902fd)
+Forecast:
 ![forecast13](https://github.com/AdarshDayalan/Insight/assets/39389186/3b235ece-2fa9-4287-8570-fbd466306ceb)
 
 ### Real Stock Data Analysis
-Next, see Insight applied to real stock data:
+Next, see Insight applied to real stock data (TSLA 5Y Chart | Updated 08/01/2023):
 ![TSLA_5Y_Trend](https://github.com/AdarshDayalan/Insight/assets/39389186/0e814156-3a5a-431b-9922-a154dbb649f5)
+Forecast:
 ![TSLA_5Y_forecast](https://github.com/AdarshDayalan/Insight/assets/39389186/7bc80796-9533-4937-9957-ee72faba70e7)
